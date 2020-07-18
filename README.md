@@ -1,0 +1,2 @@
+# templates
+Templates, snippets, partials.
